@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diegoss-github
-- 👀 I’m interested in fintech, ML, and gaming
+- 👀 I’m interested in fintech, ML and gaming
 - 🌱 I’m currently learning GraphQL
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/diegosarkissian/)
