@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @diegoss-github
+- 👋 Hi, I’m @diegosarkissian
 - 👀 I’m interested in fintech, ML and gaming
 - 🌱 I’m currently learning GraphQL
 - 💞️ I’m looking to collaborate on open source projects
